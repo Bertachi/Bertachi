@@ -19,10 +19,10 @@
          target="_blank"
    /></a>
    <a
-      href="https://www.instagram.com/urltapas/"
+      href="https://www.instagram.com/_bertachi/"
       target="_blank"
-      alt="@urltapas"
-      title="@urltapas"
+      alt="@_bertachi"
+      title="@_bertachi"
       ><img
          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
    /></a>
