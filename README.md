@@ -27,7 +27,7 @@
          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
    /></a>
    <a
-      href="https://www.discordapp.com/users/279691323756380161"
+      href="https://www.discordapp.com/users/522628423328202752"
       target="_blank"
       alt="https://www.discordapp.com/users/760696111715057715"
       ><img
