@@ -52,11 +52,3 @@
 
 </div>
 
-<!-- Git Stats -->
-<h1 align="center"> Git Stats </h1>
-      
-<div align=center display=flex>
-<img src="https://github-readme-stats.vercel.app/api?username=urltapas&show_icons=true&theme=dark&hide_border=true&bg_color=161b22" width=55%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urltapas&layout=compact&theme=dark&hide_border=true&bg_color=161b22" width=42%/>
-</div>
-   
