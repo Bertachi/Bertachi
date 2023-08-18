@@ -34,7 +34,7 @@
          src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"
    /></a>
    <a
-      href="https://www.linkedin.com/in/urltapas/"
+      href=[["https://www.linkedin.com/in/urltapas/"](https://www.linkedin.com/in/matheus-bertachi-940277206/)](https://www.linkedin.com/in/matheus-bertachi-940277206/)
       alt="https://www.linkedin.com/in/urltapas"
       ><img
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
